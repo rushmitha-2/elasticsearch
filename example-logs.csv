@@ -1,0 +1,8 @@
+﻿Time,Level,Robot name,Process,Hostname,Host Identity,Message
+12/6/2023 13:43:17.767,Info,ALG-ORD1-WEB03,ALG1_New_Mod1_RefreshAP_Split_Excel,ALG-ORD1-WEB03,ALG-ORD1-WEB03\Administrator,ALG1_New_Mod1_RefreshAP_Split_Excel execution started
+12/6/2023 13:47:37.230,Info,ALG-ORD1-WEB03,ALG1_New_Mod1_RefreshAP_Split_Excel,ALG-ORD1-WEB03,ALG-ORD1-WEB03\Administrator,File Count : 719
+12/6/2023 13:47:37.230,Info,ALG-ORD1-WEB03,ALG1_New_Mod1_RefreshAP_Split_Excel,ALG-ORD1-WEB03,ALG-ORD1-WEB03\Administrator,Input File is : C:\Users\Administrator\Documents\UiPath\ALG1_New\Mod1_Input\BotSplitOutput_12_06_2023_12_13_20.xlsx
+12/6/2023 13:47:37.323,Info,ALG-ORD1-WEB03,ALG1_New_Mod1_RefreshAP_Split_Excel,ALG-ORD1-WEB03,ALG-ORD1-WEB03\Administrator,No.of Records 35
+12/6/2023 13:47:38.073,Info,ALG-ORD1-WEB03,ALG1_New_Mod1_RefreshAP_Split_Excel,ALG-ORD1-WEB03,ALG-ORD1-WEB03\Administrator,Splitting into one file completed
+12/6/2023 13:47:40.867,Info,ALG-ORD1-WEB03,ALG1_New_Mod1_RefreshAP_Split_Excel,ALG-ORD1-WEB03,ALG-ORD1-WEB03\Administrator,Transaction Successful.
+12/6/2023 13:47:40.867,Info,ALG-ORD1-WEB03,ALG1_New_Mod1_RefreshAP_Split_Excel,ALG-ORD1-WEB03,ALG-ORD1-WEB03\Administrator,ALG1_New_Mod1_RefreshAP_Split_Excel execution ended
